@@ -63,7 +63,7 @@ public class AsynchronousClient : MonoBehaviour
 
         System.Net.Sockets.TcpClient clientSocket = new System.Net.Sockets.TcpClient();
 
-        IPAddress ip = IPAddress.Parse("86.12.183.129");
+        IPAddress ip = IPAddress.Parse("*FIND YER OWN IP*");
 
         //   Debug.Log(ip.ToString());
 
