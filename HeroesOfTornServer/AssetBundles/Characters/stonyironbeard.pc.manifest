@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2474838008
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 938c3e7639599a75c52df1d8da89b5e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c3e1eff1fa77076c1f0642404c34a1e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d633786b9e8c8bb4b9cb614de4c30f19, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/CharacterPrefabs/StonyIronbeard.prefab
+Dependencies: []
